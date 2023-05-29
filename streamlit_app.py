@@ -1,3 +1,7 @@
 import streamlit
 
-streamlit.title("My Parents New Healthy Diner")
+a = 5;
+b = 6;
+c = a + b;
+
+streamlit.title("My Parents New Healthy Diner----->" c)
